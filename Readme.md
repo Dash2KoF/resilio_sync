@@ -2,9 +2,15 @@
 
 ## 下载
 ### Windows版本
+[32位](https://github.com/zuikme/resilio_sync/raw/master/bin/windows/Resilio-Sync.exe)　　
+[64位](https://github.com/zuikme/resilio_sync/raw/master/bin/windows/Resilio-Sync_x64.exe)
+
+### Mac版本
+[dmg](https://github.com/zuikme/resilio_sync/raw/master/bin/macos/Resilio-Sync.dmg)
 
 ### Linux版本
-### Mac版本
+
+
 
 ## 使用方法：
 1.安装相应版本，在程序内应用任意一个证书，即可获得永久pro授权。（证书是自己购买的）   
