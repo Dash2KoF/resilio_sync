@@ -25,6 +25,12 @@
 QQ交流群：716421724   
 官网：https://www.resilio.com/individuals/
 
+## Sync Key　资源站点推荐　　　
+-　[btsynckeys：Public Directory of BitTorrent Sync Keys](https://www.btsynckeys.com/)    
+-　[802e1fkeys：BTSync KEYS的一个合集页面，里面的keys还是比较多的，各种类型都有](http://wherebt.com/blog/2017/blog0418.html)       
+-　[BTsynckeys：reddit里面的一个版本，专门用来分享key的，体验不是特别好](https://www.reddit.com/r/BTsynckeys/)    
+-　[同步范：Sync 资源站](https://syncfan.com/)
+
 
 #### 一些介绍文章
 https://bookfere.com/post/347.html   
