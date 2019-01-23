@@ -1,0 +1,75 @@
+﻿platform: Linux 4.20.1-1-MANJARO #1 SMP PREEMPT Wed Jan 9 17:43:49 UTC 2019 x86_64
+version: 2.6.3.1340
+[20190123 20:47:02.769] VerifyFileWithHash failed on file /mnt/data/resilio-sync/.sync/settings.dat with status 2.
+[20190123 20:47:02.769] VerifyFileWithHash failed on file /mnt/data/resilio-sync/.sync/settings.dat with status 2.
+[20190123 20:47:02.769] VerifyFileWithHash failed on file /mnt/data/resilio-sync/.sync/settings.dat with status 2.
+[20190123 20:47:02.770] ZIP: Can't locate [version] in zip, error -100.
+[20190123 20:47:02.770] VerifyFileWithHash failed on file ./.sync//settings.dat with status 2.
+[20190123 20:47:02.770] VerifyFileWithHash failed on file ./.sync//settings.dat with status 2.
+[20190123 20:47:02.770] VerifyFileWithHash failed on file ./.sync//settings.dat with status 2.
+[20190123 20:47:02.813] VerifyFileWithHash failed on file ./.sync//sync.dat with status 2.
+[20190123 20:47:02.813] VerifyFileWithHash failed on file ./.sync//sync.dat with status 2.
+[20190123 20:47:02.813] VerifyFileWithHash failed on file ./.sync//sync.dat with status 2.
+[20190123 20:47:02.813] Failed to find/load sync.dat - 2
+[20190123 20:47:02.813] test sha1: AE5BD8EFEA5322C4D9986D06680A781392F9A642
+[20190123 20:47:02.813] test sha2: 630DCD2966C4336691125448BBB25B4FF412A49C732DB2C8ABC1B8581BD710DD
+[20190123 20:47:02.815] test aes: 0A940BB5416EF045F1C39458C653EA5A07FEEF74E1D5036E900EEE118E949293
+[20190123 20:47:02.817] DISKIO[0x0000562cdff95c30]: Create diskio pool for drive with id 18446744073709551614, path: , type: 0, size: 1
+[20190123 20:47:02.817] WORKER[0x0000562cdff95ea0]: created
+[20190123 20:47:02.817] DISKIO[0x0000562cdff95c30]: created
+[20190123 20:47:02.817] WORKER[0x0000562cdff95aa0]: created
+[20190123 20:47:02.817] DISK_WORKER[0x0000562cdff95ea0]: diskio thread start, drive_id = 18446744073709551614, priority = normal
+[20190123 20:47:02.817] WORKER[0x0000562cdff89d80]: created
+[20190123 20:47:02.818] WORKER[0x0000562cdff89920]: created
+[20190123 20:47:02.818] WORKER[0x0000562cdff95aa0]: thread start
+[20190123 20:47:02.818] WORKER[0x0000562cdff89d80]: thread start
+[20190123 20:47:02.818] WORKER[0x0000562cdff86a40]: created
+[20190123 20:47:02.818] WORKER[0x0000562cdff96b90]: created
+[20190123 20:47:02.818] WORKER[0x0000562cdff86a40]: thread start
+[20190123 20:47:02.818] WORKER[0x0000562cdff89920]: thread start
+[20190123 20:47:02.818] WORKER[0x0000562cdff96b90]: thread start
+[20190123 20:47:02.818] WORKER[0x0000562cdff96e90]: created
+[20190123 20:47:02.818] WORKER[0x0000562cdff97190]: created
+[20190123 20:47:02.818] WORKER[0x0000562cdff96e90]: thread start
+[20190123 20:47:02.818] WORKER[0x0000562cdff97490]: created
+[20190123 20:47:02.818] WORKER[0x0000562cdff97190]: thread start
+[20190123 20:47:02.818] WORKER[0x0000562cdff97830]: created
+[20190123 20:47:02.818] WORKER[0x0000562cdff97490]: thread start
+[20190123 20:47:02.818] WORKER[0x0000562cdff97830]: thread start
+[20190123 20:47:02.856] webui thread start
+[20190123 20:47:02.857] register completion queue with id 0
+[20190123 20:47:02.857] register completion queue with id 0
+[20190123 20:47:02.857] register completion queue with id 0
+[20190123 20:47:02.858] 20PeerListenConnection::listen[0x0000562cdff95950][10] bound listening socket 10 to IP 0.0.0.0:51589
+[20190123 20:47:02.858] 20PeerListenConnection::listen[0x0000562cdff95b30][11] bound listening socket 11 to IP [::]:51589
+[20190123 20:47:02.858] UDP: UDP: bound listening socket 12 to IP 0.0.0.0:51589
+[20190123 20:47:02.858] UDP: UDP: bound listening socket 13 to IP [::]:51589
+[20190123 20:47:02.858] 20HttpListenConnection::listen[0x0000562cdff9eab0][14] bound listening socket 14 to IP 127.0.0.1:8888
+[20190123 20:47:02.890] register completion queue with id 1
+[20190123 20:47:02.890] register completion queue with id 1
+[20190123 20:47:02.890] register completion queue with id 1
+[20190123 20:47:03.061] IPv6 is installed
+[20190123 20:47:03.061] Unsupported or empty sync.dat file
+[20190123 20:47:03.062] My PeerID: 106CA4643031FB07C6761B93D822F7F1E3EE1336
+[20190123 20:47:03.062] LC: LoadLicenses: there is no pro license
+[20190123 20:47:03.062] VerifyFileWithHash failed on file ./.sync//history.dat with status 2.
+[20190123 20:47:03.062] VerifyFileWithHash failed on file ./.sync//history.dat with status 2.
+[20190123 20:47:03.062] VerifyFileWithHash failed on file ./.sync//history.dat with status 2.
+[20190123 20:47:03.062] Joining on interface enp3s0f1
+[20190123 20:47:03.062] Joining on interface lo
+[20190123 20:47:03.062] Joining to the multicast group 239.192.0.0:3838 on interface 127.0.0.1
+[20190123 20:47:03.062] Joining to the multicast group [ff08::f:5f:1c:6f]:3838 on interface ::1
+[20190123 20:47:03.063] Joining on interface vmnet1
+[20190123 20:47:03.063] Joining to the multicast group 239.192.0.0:3838 on interface 172.16.118.1
+[20190123 20:47:03.063] Joining on interface vmnet8
+[20190123 20:47:03.063] Joining to the multicast group 239.192.0.0:3838 on interface 192.168.136.1
+[20190123 20:47:03.063] Joining on interface wlp4s0
+[20190123 20:47:03.063] Joining to the multicast group 239.192.0.0:3838 on interface 192.168.0.9
+[20190123 20:47:03.067] Scheduler: Apply global rule, download limit: -1, upload limit: -1
+[20190123 20:47:03.067] message thread start
+[20190123 20:47:03.068] SYS_RES: drive "/", id: 66306, capacity: 229017329664, free_space: 110763307008
+[20190123 20:47:03.068] SYS_RES: drive "/mnt/data", id: 2051, capacity: 491768164352, free_space: 185324019712
+[20190123 20:47:03.069] SYS_RES: drive "/run/media/king/B5BD4379D9F9EF61", id: 2049, capacity: 236465397760, free_space: 204736532480
+[20190123 20:47:03.069] SYS_RES: drive "/run/media/king/仓库", id: 2050, capacity: 236224245760, free_space: 154890059776
+[20190123 20:47:05.070] Debug log mask has been set to FFFFFFFF
+[20190123 20:47:05.070] Features mask has been set to 0
