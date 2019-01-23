@@ -73,3 +73,60 @@ version: 2.6.3.1340
 [20190123 20:47:03.069] SYS_RES: drive "/run/media/king/仓库", id: 2050, capacity: 236224245760, free_space: 154890059776
 [20190123 20:47:05.070] Debug log mask has been set to FFFFFFFF
 [20190123 20:47:05.070] Features mask has been set to 0
+[20190123 20:47:14.879] NAT-PMP: Unable to map port with NAT-PMP.
+[20190123 20:47:20.881] Received shutdown request via signal 15
+[20190123 20:47:20.924] saved history: 0 events
+[20190123 20:47:21.838] SyncFolderScanner: shut down
+[20190123 20:47:21.838] unregister completion queue with id 1
+[20190123 20:47:21.838] unregister completion queue with id 1
+[20190123 20:47:21.838] message thread stop
+[20190123 20:47:21.838] GS: shutdown
+[20190123 20:47:21.872] DISKIO[0x0000562cdff95c30]: stopping service threads
+[20190123 20:47:21.872] DISK_WORKER[0x0000562cdff95ea0]: diskio thread stop, drive_id = 18446744073709551614
+[20190123 20:47:21.872] DISKIO[0x0000562cdff95c30]: service threads stopped
+[20190123 20:47:21.872] WORKER[0x0000562cdff95ea0]: deleted
+[20190123 20:47:21.872] DISKIO[0x0000562cdff95c30]: deleted
+[20190123 20:47:21.872] WORKER[0x0000562cdff95aa0]: thread stop
+[20190123 20:47:21.872] WORKER[0x0000562cdff95aa0]: deleted
+[20190123 20:47:21.872] WORKER[0x0000562cdff89d80]: thread stop
+[20190123 20:47:21.873] WORKER[0x0000562cdff89d80]: deleted
+[20190123 20:47:21.873] WORKER[0x0000562cdff89920]: thread stop
+[20190123 20:47:21.873] WORKER[0x0000562cdff89920]: deleted
+[20190123 20:47:21.873] WORKER[0x0000562cdff86a40]: thread stop
+[20190123 20:47:21.873] WORKER[0x0000562cdff86a40]: deleted
+[20190123 20:47:21.873] WORKER[0x0000562cdff96b90]: thread stop
+[20190123 20:47:21.873] WORKER[0x0000562cdff96b90]: deleted
+[20190123 20:47:21.873] WORKER[0x0000562cdff96e90]: thread stop
+[20190123 20:47:21.873] WORKER[0x0000562cdff96e90]: deleted
+[20190123 20:47:21.873] WORKER[0x0000562cdff97190]: thread stop
+[20190123 20:47:21.873] WORKER[0x0000562cdff97190]: deleted
+[20190123 20:47:21.873] WORKER[0x0000562cdff97490]: thread stop
+[20190123 20:47:21.873] WORKER[0x0000562cdff97490]: deleted
+[20190123 20:47:21.873] webui thread stop
+[20190123 20:47:26.635] Torrent session shutdown: done waiting
+[20190123 20:47:26.635] Stopping network threads
+[20190123 20:47:26.658] Network_ReleaseSockets: deleting 16UDPSocketManager
+[20190123 20:47:26.658] UDP: Stopping UDP threads for 0.0.0.0:51589
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 20HttpClientConnection
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 20HttpClientConnection
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 20HttpClientConnection
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 16DatagramSocketV4
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 16DatagramSocketV4
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 16DatagramSocketV4
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 16DatagramSocketV6
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 16DatagramSocketV4
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 16DatagramSocketV6
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 16DatagramSocketV4
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 13NetlinkSocket
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 15NatPmpUdpSocket
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 24UpnpNotifyListenerSocket
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 19UpnpBroadcastSocket
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 19UpnpBroadcastSocket
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 19UpnpBroadcastSocket
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 19UpnpBroadcastSocket
+[20190123 20:47:26.696] Network_ReleaseSockets: deleting 20HttpClientConnection
+[20190123 20:47:26.697] Network_ReleaseSockets: deleting 20PeerListenConnection
+[20190123 20:47:26.697] Network_ReleaseSockets: deleting 20PeerListenConnection
+[20190123 20:47:26.697] Network_ReleaseSockets: deleting 7EventFD
+[20190123 20:47:26.697] Network_ReleaseSockets: deleting 16UDPSocketManager
+[20190123 20:47:26.697] UDP: Stopping UDP threads for [::]:51589
