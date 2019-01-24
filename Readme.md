@@ -1,14 +1,8 @@
 # Resilio sync home
 
 ## 下载
-### Windows版本
-[32位](https://github.com/zuikme/resilio_sync/raw/master/bin/windows/Resilio-Sync.exe)　　
-[64位](https://github.com/zuikme/resilio_sync/raw/master/bin/windows/Resilio-Sync_x64.exe)
-
-### Mac版本
-[dmg](https://github.com/zuikme/resilio_sync/raw/master/bin/macos/Resilio-Sync.dmg)
-
-### Linux版本
+#### [官网下载页](https://www.resilio.com/individuals/)     
+#### [github搬运页](https://github.com/zuikme/resilio_sync/releases)    
 
 
 
