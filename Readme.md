@@ -37,7 +37,7 @@ Nas版本太多了，一般在Nas的应用商店里都有，可以直接去搜�
 使用证书获得Pro授权，证书可以自行去官网购买，价格很贵。    
 我购买了Pro证书，后来发现了一个洞，这个授权是本地授权，只要屏蔽了证书验证就可以一个证书很多人用。    
 **下面提供方法：**       
-1.下载你喜欢的证书，这里提供两个证书   
+1.下载你喜欢的证书，这里提供两个证书，右键链接另存为   
 [个人版](https://raw.githubusercontent.com/zuikme/resilio_sync/master/key/Resilio_Sync_Personal.btskey)    
 [家庭版](https://raw.githubusercontent.com/zuikme/resilio_sync/master/key/Sync_Home_70878.btskey)    
 2.在程序内应用任意一个证书，即可获得永久pro授权。    
