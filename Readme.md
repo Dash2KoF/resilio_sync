@@ -1,10 +1,5 @@
-# Resilio sync home
-
-
-
-
-## 使用方法：
-### 下载和安装
+# 使用方法：
+## 下载和安装
 如果有vpn尽量选择从官网下载最新版本，如果没有vpn可以选择从github搬运页下载相应版本
 ##### [官网下载页](https://www.resilio.com/individuals/)
 ##### [github搬运页](https://github.com/zuikme/resilio_sync/releases)    
@@ -33,7 +28,7 @@ Nas版本太多了，一般在Nas的应用商店里都有，可以直接去搜�
 如果你的Nas型号厂商比较特殊，可以按照Linux版本的安装方法安装。
 
 
-### 添加证书
+## 添加证书
 使用证书获得Pro授权，证书可以自行去官网购买，价格很贵。    
 我购买了Pro证书，后来发现了一个洞，这个授权是本地授权，只要屏蔽了证书验证就可以一个证书很多人用。    
 **下面提供方法：**       
@@ -44,23 +39,23 @@ Nas版本太多了，一般在Nas的应用商店里都有，可以直接去搜�
 3. 修改hosts，防止证书验证导致pro丢失，在hosts文件中添加下面这行     
 **127.0.0.1 license.resilio.com**      
 
-### 后续优化
+## 后续优化
 建议安装ZeroTier，加入虚拟网络，能够寻找到更多节点。   
 请自行搜索并了解ZeroTier，以便后面的使用
 
-### 具体使用
+## 具体使用
 sync是一款基于P2P技术的文件同步与共享软件。    
 里面的key可以说是一份资源的钥匙，相当与种子下载中的种子，通过不同的key我们可以连接上不同的资源。    
 大家可以自行寻找自己需要的key。
 
-## Sync Key　资源站点推荐　　　
+# Sync Key　资源站点推荐　　　
 - 零网sync　key页，这个很多资源，大家自行寻找   
 - [btsynckeys：Public Directory of BitTorrent Sync Keys](https://www.btsynckeys.com/)    
 - [802e1fkeys：BTSync KEYS的一个合集页面，里面的keys还是比较多的，各种类型都有](http://wherebt.com/blog/2017/blog0418.html)       
 - [BTsynckeys：reddit里面的一个版本，专门用来分享key的，体验不是特别好](https://www.reddit.com/r/BTsynckeys/)    
 - [同步范：Sync 资源站](https://syncfan.com/)
 
-## 交流与学习
+# 交流与学习
 QQ交流群：716421724   
 官网：https://www.resilio.com/individuals/
 
