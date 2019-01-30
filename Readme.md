@@ -54,7 +54,7 @@ sync是一款基于P2P技术的文件同步与共享软件。
 大家可以自行寻找自己需要的key。
 
 # Sync Key　资源站点推荐　　　
-- 零网sync　key页，这个很多资源，大家自行寻找   
+- [零网sync　key页](./神key.html)            
 - [btsynckeys：Public Directory of BitTorrent Sync Keys](https://www.btsynckeys.com/)    
 - [802e1fkeys：BTSync KEYS的一个合集页面，里面的keys还是比较多的，各种类型都有](http://wherebt.com/blog/2017/blog0418.html)       
 - [BTsynckeys：reddit里面的一个版本，专门用来分享key的，体验不是特别好](https://www.reddit.com/r/BTsynckeys/)    
